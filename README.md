@@ -1,4 +1,4 @@
-# 🚀 CacheBoost API
+# CacheBoost API ⚡ 
 
 A high-performance backend API demonstrating the **Cache-Aside Pattern** using **FastAPI**, **Redis**, and **MongoDB**.
 
